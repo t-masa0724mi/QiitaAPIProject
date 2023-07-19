@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  QiitaAPIProject
-//
-//  Created by 飯塚政美 on 2023/07/19.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
